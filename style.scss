@@ -1,0 +1,44 @@
+$themeColor1: #ef4c00;
+$themeColor2: #B30733;
+$themeColor3: #2E4765;
+
+.nav-items{
+    li
+    {
+        margin: 0 15px;
+        list-style-type: none;
+    }
+
+    
+}
+
+.cartIcon{
+    background-color: $themeColor1;
+}
+
+.remove-line{
+    text-decoration: none;
+    border-color: $themeColor1;
+}
+
+.text-theme1{
+    color: $themeColor1;
+}
+
+.cartText{
+    color: white;
+}
+
+.mainbanner{
+    border-radius: 3%;
+}
+
+.banner{
+    h2{
+        color: $themeColor3
+    }
+
+    h3{
+        color: $themeColor1
+    }
+}
