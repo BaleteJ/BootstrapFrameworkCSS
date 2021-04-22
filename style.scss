@@ -16,6 +16,10 @@ $themeColor3: #2E4765;
     background-color: $themeColor1;
 }
 
+.cartText{
+    color: white;
+}
+
 .remove-line{
     text-decoration: none;
     border-color: $themeColor1;
@@ -23,14 +27,6 @@ $themeColor3: #2E4765;
 
 .text-theme1{
     color: $themeColor1;
-}
-
-.cartText{
-    color: white;
-}
-
-.mainbanner{
-    border-radius: 3%;
 }
 
 .banner{
@@ -41,4 +37,8 @@ $themeColor3: #2E4765;
     h3{
         color: $themeColor1
     }
+}
+
+.dlApp{
+    background-color: $themeColor2;
 }
